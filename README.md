@@ -1,6 +1,6 @@
 # WSFLogi Next
 
-![Landing Page](https://i.imgur.com/Cm63hpc.jpg)
+![Landing Page](https://i.imgur.com/0SnCqfb.png)
 
 ## 🚀 Introduction
 
