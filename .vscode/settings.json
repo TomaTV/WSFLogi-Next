@@ -1,8 +1,0 @@
-{
-    "prettier.bracketSameLine": true,
-    "prettier.arrowParens": "avoid",
-    "prettier.endOfLine": "lf",
-    "prettier.htmlWhitespaceSensitivity": "css",
-    "prettier.singleAttributePerLine": false,
-    "prettier.singleQuote": true
-}
